@@ -274,7 +274,7 @@ library TopdevLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66' // init code hash
+                hex'c18dc78ebbfb2ff02d0a78baaac3d071e04afcf0a0f86d406620cb22b9ab8806' // init code hash
             ))));
     }
 
